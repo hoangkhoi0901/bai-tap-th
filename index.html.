@@ -1,14 +1,16 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title> My GitHub
-Website</title>
+<style>
+div {width: 350px;
+border: 1px solid #000000;}
+div.b {word-wrap: break-word}
+</style>
 </head>
 <body>
-  <h1>Welcome to My
-Website</h1>
-    <p>This is a website
-hosted on GitHub
-Pages.</p>
+<div id="content">
+<h1>Example</h1>
+<div class="b"><!-- What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software including versions of Lorem Ipsum. --></div>
+</div>
 </body>
-</html>
+<html>
