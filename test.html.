@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+div {width: 350px;
+border: 1px solid #000000;}
+div.b {word-wrap: break-word}
+</style>
+</head>
+<body>
+<div id="content">
+<h1>Example</h1>
+<div class="b"><!-- Dán nội dung copy tại đây --></div>
+</div>
+</body>
+<html>
